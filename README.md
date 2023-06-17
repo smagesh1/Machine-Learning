@@ -4,7 +4,8 @@
 - Aim of the project is to predict whether a patient is likely to get stroke based on various features related to health.
 - Trying to find the most accurate method by comparing different machine learning algorithms.
 
-## URL of dataset: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
+## URL of dataset: 
+https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
 ## Dependencies 
 To run the code in this project, the following dependencies are required to be installed:
